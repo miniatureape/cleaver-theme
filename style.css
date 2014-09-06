@@ -1,0 +1,9 @@
+.slide-content {
+    height: auto;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
+}
